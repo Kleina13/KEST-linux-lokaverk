@@ -1,5 +1,10 @@
 # KEST-linux-lokaverk
 ## Screenshots:
+![Crond status](Crond status.png)
+![Hostname and Ip address](Hostname and Ip address.png)
+![MySql Status](MySql Status.png)
+![SQL Databases](SQL Databases.png)
+![dhcp.conf](dhcp.conf.png)
 
 ## Lab Instractions:
   1. ~~Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is~~
