@@ -16,7 +16,7 @@
   12. For security reasons, install and configure SSH on the server and clients, SSH login should use RSA keys instead of the password authentication.
   13. All unused ports should be closed, use NMAP for testing.
 ## User create script:
- [create_users,sh](create_users.sh)
+[create_users.sh](create_users.sh)
 ```bash
 #!/bin/bash
 # Author: Ragnar & Einar
