@@ -10,6 +10,24 @@
 ![SQL Databases](SQl_databases.png)
 ### dhcp.conf
 ![dhcp.conf](dhcp.conf.png)
+### Mail test
+![mailTest](mailTest.png)
+### NTP
+![ntp](ntp.png)
+### NTP status
+![ntp_status](ntp_status.png)
+### NTPQ
+![ntpq](ntpq.png)
+### Client 1
+![Client 1](Dhcp/Client1.png)
+### Client 2
+![Client 2](Dhcp/Client2.png)
+### DHCP running
+![DHCP running](Dhcp/dhcp_running.png)
+### dhcpd.conf
+![dhcpd.conf](Dhcp/dhcpd.conf.png)
+### Bind running
+![bind_running](Bind/bind_running.png)
 
 ## Lab Instractions:
   1. ~~Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is~~
@@ -62,7 +80,7 @@ done < $INPUT
 IFS=$OLDIFS
 ```
 
-## SQL database
+## SQL database:
 ```mysql
 create database Human_Resource;
 use Human_Resource;
