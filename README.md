@@ -63,7 +63,7 @@ IFS=$OLDIFS
 ```
 
 ## SQL database
-```sql
+```mysql
 create database Human_Resource;
 use Human_Resource;
 
