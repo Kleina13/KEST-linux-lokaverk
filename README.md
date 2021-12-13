@@ -77,6 +77,7 @@ IFS=$OLDIFS
 ```
 
 ## SQL database:
+[Database.sql](Database.sql)
 ```mysql
 create database Human_Resource;
 use Human_Resource;
