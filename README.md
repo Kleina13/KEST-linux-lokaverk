@@ -1,9 +1,9 @@
 # KEST-linux-lokaverk
 ## Screenshots:
-![Crond status](Crond status.png)
-![Hostname and Ip address](Hostname and Ip address.png)
-![MySql Status](MySql Status.png)
-![SQL Databases](SQL Databases.png)
+![Crond status](crond_status.png)
+![Hostname and IP address](hostname_n_ip_address.png)
+![MySql Status](MySQL_status.png)
+![SQL Databases](SQl_databases.png)
 ![dhcp.conf](dhcp.conf.png)
 
 ## Lab Instractions:
