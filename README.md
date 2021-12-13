@@ -12,8 +12,6 @@
 ![dhcp.conf](dhcp.conf.png)
 ### Mail test
 ![mailTest](mailTest.png)
-### NTP
-![ntp](ntp.png)
 ### NTP status
 ![ntp_status](ntp_status.png)
 ### NTPQ
@@ -24,8 +22,6 @@
 ![Client 2](Dhcp/Client2.png)
 ### DHCP running
 ![DHCP running](Dhcp/dhcp_running.png)
-### dhcpd.conf
-![dhcpd.conf](Dhcp/dhcpd.conf.png)
 ### Bind running
 ![bind_running](Bind/bind_running.png)
 
