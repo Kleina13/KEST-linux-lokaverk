@@ -23,7 +23,7 @@
 ### DHCP running
 ![DHCP running](Dhcp/dhcp_running.png)
 ### Bind running
-![bind_running](Bind/bind_running.png)
+![bind_running](bind/bind_running.png)
 
 ## Lab Instractions:
   1. ~~Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is~~
